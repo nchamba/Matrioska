@@ -10,6 +10,7 @@ If you use this software, please cite Borlaff et al. 2018:
 
 "Evolution of the anti-truncated stellar profiles of S0 galaxies since z=0.6 in the SHARDS survey: II - Structural and photometric evolution" - Astronomy & Astrophysics
 
+http://adsabs.harvard.edu/abs/2018arXiv180300570B
 
 
  Input:
